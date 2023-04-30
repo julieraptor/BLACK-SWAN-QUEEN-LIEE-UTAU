@@ -1,9 +1,8 @@
 # BLACK SWAN QUEEN LIEE
 <i> UTAU voicebank by julieraptor</i>
 
-Thank you for using BLACK SWAN QUEEN LIEE! If you make a cover with LIEE, please tag @utauraptor on Twitter and use the hashtag #veliee!
+Thank you for using BLACK SWAN QUEEN LIEE! If you make a cover with LIEE, please tag @utauraptor on Twitter and use the hashtag \#veliee!<br>
 
-<br>
 To download, navigate to **Releases** on the right-hand side and choose **BLACK SWAN QUEEN LIEE v1.0**.</br>
 
 <p align="center">
