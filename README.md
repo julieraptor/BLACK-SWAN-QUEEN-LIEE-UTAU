@@ -4,10 +4,10 @@
 Thank you for using BLACK SWAN QUEEN LIEE! If you make a cover with LIEE, please tag @utauraptor on Twitter and use the hashtag #veliee!
 
 <br>
-To download, navigate to **Releases** on the right-hand side and choose **BLACK SWAN QUEEN LIEE v1.0**.
+To download, navigate to **Releases** on the right-hand side and choose **BLACK SWAN QUEEN LIEE v1.0**.</br>
 
 <p align="center">
-<img src ="https://github.com/julieraptor/CHIP-UTAU/blob/main/art/Chip.png?raw=true" height="600" />
+<img src ="https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/blob/main/art/BLACK%20SWAN%20QUEEN%20LIEE_CARD.png?raw=true" height="600" />
 <br>
 <i>BLACK SWAN QUEEN LIEE Official Art by D.H. Giang</i>
 </p>
