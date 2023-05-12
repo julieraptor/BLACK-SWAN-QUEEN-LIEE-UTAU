@@ -33,6 +33,8 @@ Local villagers tell tales of a swan who becomes a human under the light of the 
 
 Cursed to live most of her life in the forest by day, she hopes to find someone whose love will break her curse before the morning dawns again, no matter what it takes.
 
+BLACK SWAN QUEEN LIEE's lore exists both as an individual character, and in overarching lore as a fictional role played by the singer-actress Velirio Nasaranta.
+
 ### Voice and Training Attributes
 
 **UTAU Voicebank:**
@@ -104,10 +106,10 @@ The English-Korean add-on includes Korean "eo", liquid L, M, dj-, and dz- capabi
 
 ### Usage Content
 
- - Do not create sexual content. 
- - Do not create violent content. 
- - Do not create political content.
- - Do not create religious content.
+- You are free to create sexual content.
+- You are free to create violent content.
+- Do not create political content.
+- Do not create religious content.
 
 
 **The following types of content are unconditionally prohibited:**
