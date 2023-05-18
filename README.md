@@ -13,7 +13,7 @@ To download, navigate to **Releases** on the right-hand side and choose **BLACK 
 
 # 【SAMPLE】 
 
-To be uploaded soon
+sample to be added here
 
 # 【NOTES】 
 ### Character Details
