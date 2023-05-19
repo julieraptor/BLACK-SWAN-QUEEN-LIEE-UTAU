@@ -13,7 +13,8 @@ To download, navigate to **Releases** on the right-hand side and choose **BLACK 
 
 # 【SAMPLE】 
 
-sample to be added here
+https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/assets/42128030/68cad586-4abc-4078-90a2-83ddfaefd9ab
+
 
 # 【NOTES】 
 ### Character Details
