@@ -15,6 +15,7 @@ To download, navigate to **Releases** on the right-hand side and choose **BLACK 
 
 https://github.com/julieraptor/BLACK-SWAN-QUEEN-LIEE-UTAU/assets/42128030/68cad586-4abc-4078-90a2-83ddfaefd9ab
 
+Release video: [https://www.youtube.com/watch?v=5GEh6OmE2JI](https://www.youtube.com/watch?v=5GEh6OmE2JI)
 
 # 【NOTES】 
 ### Character Details
